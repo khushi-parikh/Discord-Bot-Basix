@@ -1,0 +1,25 @@
+help_me : returns list of commands
+hello : welcomes you to the server
+dob : gives dob of bot
+clear/c/clr : clears certain amount of msgs
+pfp/dp (name) : returns pfp 
+dead (name) : shows how much percent dead you are
+FOR IMAGE MANIPULATION,
+pixel/pixelate (name) : returns a pixelated image
+merge/m (name) (name) : merges two images
+evaluate (name) : exposure/contrast changes, khud hi dekh lo
+spread (name) : returns a grainy distorted image
+emboss (name) : creates a grey emboss
+
+{'help_me : returns list of commands',
+'hello : welcomes you to the server',
+'dob : gives dob of bot',
+'clear/c/clr : clears certain amount of msgs',
+'pfp/dp (name) : returns pfp ',
+'dead (name) : shows how much percent dead you are',
+'FOR IMAGE MANIPULATION,',
+'pixel/pixelate (name) : returns a pixelated image',
+'merge/m (name) (name) : merges two images',
+'evaluate (name) : exposure/contrast changes, khud hi dekh lo',
+'spread (name) : returns a grainy distorted image',
+'emboss (name) : creates a grey emboss'}
